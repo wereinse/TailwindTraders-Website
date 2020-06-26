@@ -1,0 +1,9 @@
+NAME                = "wsrtw"
+TF_CLIENT_ID        = "e2feaaf1-124a-4ba6-8ca4-d875432d0190"
+TF_CLIENT_SECRET    = "16efccd3-e4e5-4f75-a493-fa9eb90bdcb3"
+TF_SUB_ID           = "d6059683-f948-42af-a4de-dcb43e306d49"
+TF_TENANT_ID        = "72f988bf-86f1-41af-91ab-2d7cd011db47"
+LOCATION            = "centralus"
+CONTAINER_FILE_NAME = "benchmark.json"
+DOCKER_HUB_USERNAME = 
+DOCKER_HUB_PASSWORD = 
